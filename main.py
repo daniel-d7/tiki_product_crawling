@@ -19,12 +19,12 @@ now = datetime.now()
 runtime = now.strftime(runtime_format)
 os.makedirs("./logs/", exist_ok=True)
 log_file = f"./logs/log_progress_at_{runtime}.txt"
-
+error_logs = f"./logs/eror_log_progress_at_{runtime}.txt"
 # Logging start time
 log_progress(log_file, "Sequence started!")
 
 # Call function to start crawling
-crawl(PID_FILE, TEMP_DIR, API_URL, HEADERS)
+crawl(PID_FILE, TEMP_DIR, API_URL, HEADERS, error_logs)
 
 # Call function to merge 1000 product each json file
 batch_merge(BATCH_SIZE, TEMP_DIR, OUTPUT_DIR)

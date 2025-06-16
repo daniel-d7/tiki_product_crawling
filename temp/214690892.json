@@ -1,0 +1,106 @@
+{
+  "id": 214690892,
+  "master_id": 214690892,
+  "sku": "1128013909460",
+  "name": "Mô hình, figure Pokemon cực đẹp + Tặng hình xăm Pokemon",
+  "url_key": "mo-hinh-figure-pokemon-cuc-dep-tang-kem-bo-the-bai-pokemon-p214690892",
+  "url_path": "mo-hinh-figure-pokemon-cuc-dep-tang-kem-bo-the-bai-pokemon-p214690892.html",
+  "short_url": "https://tiki.vn/product-p214690892.html",
+  "type": "configurable",
+  "book_cover": null,
+  "short_description": "Chất liệu: PVCBao bì: với Hộp bán lẻTình trạng sản phẩm: Hoàn toàn mớiGói hàng bao gồm: 1* Mô hình Kích thước: 15-18cmLưu ý:1. Do màn hình và hiệu ứng ánh sáng khác nhau, màu sắc thực tế của sản phẩm ...",
+  "price": 199000,
+  "list_price": 199000,
+  "original_price": 199000,
+  "badges": [
+    {
+      "code": "new_pdp",
+      "text": "v1"
+    }
+  ],
+  "badges_new": [],
+  "badges_v3": null,
+  "tracking_info": null,
+  "discount": 0,
+  "discount_rate": 0,
+  "rating_average": 0,
+  "review_count": 0,
+  "review_text": "Chưa có đánh giá",
+  "favourite_count": 0,
+  "thumbnail_url": "",
+  "has_ebook": false,
+  "inventory_status": "out_of_stock",
+  "inventory_type": "backorder",
+  "productset_group_name": "",
+  "is_fresh": false,
+  "seller": null,
+  "is_flower": false,
+  "is_gift_card": false,
+  "salable_type": null,
+  "data_version": 3300,
+  "day_ago_created": 891,
+  "meta_title": "",
+  "meta_description": "",
+  "meta_keywords": "",
+  "is_baby_milk": false,
+  "is_acoholic_drink": false,
+  "description": "<p>Chất liệu: PVC<br />Bao bì: với Hộp bán lẻ<br />Tình trạng sản phẩm: Hoàn toàn mới<br />Gói hàng bao gồm: 1* Mô hình <br />Kích thước: 15-18cm<br />Lưu ý:<br />1. Do màn hình và hiệu ứng ánh sáng khác nhau, màu sắc thực tế của sản phẩm có thể hơi khác so với màu sắc hiển thị trên hình ảnh. Cảm ơn bạn!<br />2. Xin vui lòng cho phép sai số kích thước 1-3 cm do đo lường thủ công.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+  "images": [
+    {
+      "base_url": "https://salt.tikicdn.com/media/catalog/product/f5/15/2228f38cf84d1b8451bb49e2c4537081.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/media/catalog/product/f5/15/2228f38cf84d1b8451bb49e2c4537081.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/media/catalog/product/f5/15/2228f38cf84d1b8451bb49e2c4537081.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/media/catalog/product/f5/15/2228f38cf84d1b8451bb49e2c4537081.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/media/catalog/product/f5/15/2228f38cf84d1b8451bb49e2c4537081.png"
+    }
+  ],
+  "warranty_policy": null,
+  "brand": {
+    "id": 111461,
+    "name": "OEM",
+    "slug": "oem"
+  },
+  "current_seller": null,
+  "other_sellers": [],
+  "specifications": [],
+  "product_links": [],
+  "gift_item_title": "",
+  "services_and_promotions": [],
+  "promitions": [],
+  "breadcrumbs": [
+    {
+      "url": "/do-choi-me-be/c2549",
+      "name": "Đồ Chơi - Mẹ & Bé",
+      "category_id": 2549
+    },
+    {
+      "url": "/do-choi/c5250",
+      "name": "Đồ chơi",
+      "category_id": 5250
+    },
+    {
+      "url": "/lap-ghep-xep-hinh/c1948",
+      "name": "Lắp ghép, Xếp hình",
+      "category_id": 1948
+    },
+    {
+      "url": "https://tiki.vn/mo-hinh-figure-pokemon-cuc-dep-tang-kem-bo-the-bai-pokemon-p214690892.html",
+      "name": "Mô hình, figure Pokemon cực đẹp + Tặng hình xăm Pokemon",
+      "category_id": 0
+    }
+  ],
+  "installment_info_v2": null,
+  "video_url": "https://sand.tikicdn.com/ts/video/94/c4/b7/faba26d62a6b7a1a1dda26d006b1e1ad.mp4",
+  "is_seller_in_chat_whitelist": false,
+  "inventory": {
+    "product_virtual_type": null,
+    "fulfillment_type": "dropship"
+  },
+  "warranty_info": null,
+  "return_and_exchange_policy": "",
+  "is_tier_pricing_available": false,
+  "is_tier_pricing_eligible": false
+}
