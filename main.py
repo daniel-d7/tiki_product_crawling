@@ -5,9 +5,10 @@ from datetime import datetime
 import os
 
 # Setup environments
-PID_FILE = './input/products.csv'
-TEMP_DIR = './temp'
-OUTPUT_DIR = 'output'
+SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
+PID_FILE = f'{SCRIPT_DIR}/input/products.csv'
+TEMP_DIR = f'{SCRIPT_DIR}/temp'
+OUTPUT_DIR = f'{SCRIPT_DIR}/output'
 BATCH_SIZE = 1000
 API_URL = 'https://api.tiki.vn/product-detail/api/v1/products/{}'
 HEADERS = {
@@ -17,9 +18,9 @@ HEADERS = {
 runtime_format = "%Y-%m-%d"
 now = datetime.now()
 runtime = now.strftime(runtime_format)
-os.makedirs("./logs/", exist_ok=True)
-log_file = f"./logs/log_progress_at_{runtime}.txt"
-error_logs = f"./logs/eror_log_progress_at_{runtime}.txt"
+os.makedirs("{SCRIPT_DIR}/logs/", exist_ok=True)
+log_file = f"{SCRIPT_DIR}/logs/log_progress_at_{runtime}.txt"
+error_logs = f"{SCRIPT_DIR}/logs/eror_log_progress_at_{runtime}.txt"
 # Logging start time
 log_progress(log_file, "Sequence started!")
 
